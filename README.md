@@ -1,5 +1,5 @@
 # CODSOFT
-CodSoft Artificial Intelligence Internship Tasks
+\
 # CodSoft AI Internship Tasks
 
 This repository contains the projects completed as part of the CodSoft Artificial Intelligence Internship.

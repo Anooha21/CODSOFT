@@ -1,70 +1,35 @@
 # CODSOFT
 CodSoft Artificial Intelligence Internship Tasks
-# CodSoft AI Internship - Task 1
+# CodSoft AI Internship Tasks
 
-## Rule-Based AI Chatbot using Python and Tkinter
+This repository contains the projects completed as part of the CodSoft Artificial Intelligence Internship.
 
-### Description
+## Task 1 - Rule-Based AI Chatbot
 
-This project is a Rule-Based AI Chatbot developed as part of the CodSoft Artificial Intelligence Internship.
+* Built using Python and Tkinter
+* Responds to user queries using predefined rules
+* Simple and interactive GUI
 
-The chatbot responds to user queries using predefined rules and pattern matching techniques. It is built using Python and Tkinter GUI.
+## Task 2 - Tic-Tac-Toe AI
 
-### Features
+* Implemented using the Minimax Algorithm
+* Unbeatable AI opponent
+* Interactive graphical interface using Tkinter
 
-* User-friendly GUI using Tkinter
-* Rule-based conversation system
-* Greeting responses
-* AI and Machine Learning information
-* Programming language information
-* Date and Time functionality
-* Internship and College related responses
-* Enter key support
-* Scrollable chat window
-* Dark theme interface
+## Task 3 - Telugu Movie Recommendation System
 
-### Technologies Used
+* Netflix-style user interface
+* Content-Based Recommendation System
+* Displays movie posters, ratings and descriptions
+* Built using Python, Tkinter and Pillow
+
+## Technologies Used
 
 * Python
 * Tkinter
-* Datetime Module
+* Pillow (PIL)
 
-### How to Run
-
-1. Install Python
-2. Download the project files
-3. Open Command Prompt
-4. Navigate to the project folder
-5. Run:
-
-```bash
-python chatbot_gui.py
-```
-
-### Sample Questions
-
-* Hi
-* What is AI?
-* What is Machine Learning?
-* Python
-* Java
-* Data Science
-* Internship
-* Time
-* Date
-* Thank You
-
-### Learning Outcomes
-
-* Python Programming
-* GUI Development using Tkinter
-* Conditional Statements
-* Loops
-* User Input Handling
-* Rule-Based Chatbot Design
-* Basic Natural Language Processing Concepts
-
-### Author
+## Author
 
 Kanumuri V S L I Anooha
-CodSoft Artificial Intelligence Intern
+
